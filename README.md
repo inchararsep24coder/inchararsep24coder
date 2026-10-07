@@ -60,5 +60,5 @@ An AI-based healthcare solution concept focused on identifying possible anemia r
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/inchara-r-1b57b342b)
+- LinkedIn: https://www.linkedin.com/in/inchara-r-1b57b342b
 - Email: inchararsep24@gmail.com
